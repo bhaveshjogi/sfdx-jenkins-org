@@ -4,9 +4,9 @@ import groovy.json.JsonSlurperClassic
 
 node {
 
-    def SF_CONSUMER_KEY='3MVG9Y6d_Btp4xp78sJezspGP9HAkWhrS9xWf06s3BjVOSWqIyZa8ESqha55VjkV8PooiKBIB2.1.iS0FO8b1'
-    def SF_USERNAME='bhavesh@jogi.com'
-    def SERVER_KEY_CREDENTALS_ID='55688e38-4946-4ef6-aae7-90652b7aca7c'
+    def SF_CONSUMER_KEY='3MVG9n_HvETGhr3BGjljw1GI06PvHu8fxvedO8R8llXCdJbmzTQEim4BZi.EzWnGLLS2WkYjM78EAK_5YrUIK'
+    def SF_USERNAME='bhavesh@salescloud.com'
+    def SERVER_KEY_CREDENTALS_ID='bd9131d6-f3e3-426d-b5f9-ebb8624a5fa6'
     def TEST_LEVEL='RunLocalTests'
   //  def PACKAGE_NAME='0Ho1U000000CaUzSAK'
  //   def PACKAGE_VERSION
